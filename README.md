@@ -1,4 +1,4 @@
-# IoT_AizD
+# IoT_AizD_Post-Get JSON menggunakan NodeMcu
 Dokumentasi IoT pada AizD
 
 ## POST - GET Method Arduino IDE with Nodemcu
