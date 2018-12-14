@@ -1,10 +1,7 @@
 # Post-Get JSON menggunakan NodeMcu
 Dokumentasi IoT pada AizD menggunakan NodeMcu
 
-## POST - GET Method Arduino IDE with Nodemcu
-Melakukan komunikasi melalui internet menggunakan post-get pada NodeMCU melalui Arduino IDE.
-
-### How-To Do-It
+## How-To Do-It
 1.	Download Library yang dibutuhkan ESP8266WiFi.h, ESP8266HTTPClient.h, ArduinoJson.h lalu include pada post_get_main
  
 2.	Atur SSID dan Password pada Arduino IDE, sesuai dengan hotspot yang tersedia (Tanpa Proxy) pada tab post_get_main
