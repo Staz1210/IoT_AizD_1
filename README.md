@@ -1,5 +1,5 @@
 # Post-Get JSON menggunakan NodeMcu
-Dokumentasi IoT pada AizD menggunakan NodeMcu
+Dokumentasi IoT pada AizD untuk Post-Get Json menggunakan NodeMcu
 
 ## How-To Do-It
 1.	Download Library yang dibutuhkan ESP8266WiFi.h, ESP8266HTTPClient.h, ArduinoJson.h lalu include pada post_get_main
