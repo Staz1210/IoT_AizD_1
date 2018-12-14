@@ -1,5 +1,5 @@
-# IoT_AizD_Post-Get JSON menggunakan NodeMcu
-Dokumentasi IoT pada AizD
+# Post-Get JSON menggunakan NodeMcu
+Dokumentasi IoT pada AizD menggunakan NodeMcu
 
 ## POST - GET Method Arduino IDE with Nodemcu
 Melakukan komunikasi melalui internet menggunakan post-get pada NodeMCU melalui Arduino IDE.
